@@ -1,0 +1,13 @@
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\bin\Debug\netcoreapp3.1\TugasLab9.exe
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\bin\Debug\netcoreapp3.1\TugasLab9.deps.json
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\bin\Debug\netcoreapp3.1\TugasLab9.runtimeconfig.json
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\bin\Debug\netcoreapp3.1\TugasLab9.runtimeconfig.dev.json
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\bin\Debug\netcoreapp3.1\TugasLab9.dll
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\bin\Debug\netcoreapp3.1\TugasLab9.pdb
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\obj\Debug\netcoreapp3.1\TugasLab9.csprojAssemblyReference.cache
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\obj\Debug\netcoreapp3.1\TugasLab9.csproj.CoreCompileInputs.cache
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\obj\Debug\netcoreapp3.1\TugasLab9.AssemblyInfoInputs.cache
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\obj\Debug\netcoreapp3.1\TugasLab9.AssemblyInfo.cs
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\obj\Debug\netcoreapp3.1\TugasLab9.dll
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\obj\Debug\netcoreapp3.1\TugasLab9.pdb
+C:\Users\odi setiadi\source\repos\TugasLab9\TugasLab9\obj\Debug\netcoreapp3.1\TugasLab9.genruntimeconfig.cache
